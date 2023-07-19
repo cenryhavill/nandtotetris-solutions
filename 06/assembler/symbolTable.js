@@ -1,4 +1,4 @@
-SymbolTable() {
+function SymbolTable() {
     this.addEntry = () => {}
 
     this.contains = () => {}
